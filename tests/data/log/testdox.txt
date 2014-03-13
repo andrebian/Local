@@ -1,0 +1,8 @@
+LocalDataBrazilianState
+ [x] Instance of
+ [x] If method get list exists
+ [x] If get list is retrieving all data as array
+ [x] If get list has 27 positions
+ [x] If first position is acre
+ [x] If last position is tocantins
+
